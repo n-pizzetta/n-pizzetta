@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nate-pizz/nate-pizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there 👋 I am Nathan
+=====================
+Master degree student in Data Science
+--------------  
+
+* 🌍  I'm based in Toulouse
+  
+* 🖥️  See one of my little [Project](http://nate-pizz.github.io/r-project/)
+
+* ✉️  You can contact me at [nathan.pizzetta@gmail.com](mailto:nathan.pizzetta@gmail.com)
+      Also on my [LinkedIn](https://www.linkedin.com/in/n-pizzetta)
+  
+* 🧠  I'm currently learning in the Master Data Science for Social Sciences at Toulouse School of Economics (TSE)
+
+* 🤝  I'm looking for a 3-5 months internship as Datascientist (starting april 2024)
+
+* ⚡  I am very enthusiastic about starting a position as data scientist and meeting a new team to work with.
