@@ -23,7 +23,7 @@ Master degree student in Data Science
 * 🖥️  See one of my little [Project](http://nate-pizz.github.io/r-project/)
 
 * ✉️  You can contact me at [nathan.pizzetta@gmail.com](mailto:nathan.pizzetta@gmail.com)
-      Also on my [LinkedIn](https://www.linkedin.com/in/n-pizzetta)
+      and on my [LinkedIn](https://www.linkedin.com/in/n-pizzetta)
   
 * 🧠  I'm currently studying in the Master Data Science for Social Sciences at Toulouse School of Economics (TSE)
 
