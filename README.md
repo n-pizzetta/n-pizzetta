@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋 I am Nathan
+Hi there 👋 I am looking for an internship as Data Scientist (april 2024)
 =====================
 Master degree student in Data Science
 --------------  
@@ -25,7 +25,7 @@ Master degree student in Data Science
 * ✉️  You can contact me at [nathan.pizzetta@gmail.com](mailto:nathan.pizzetta@gmail.com)
       Also on my [LinkedIn](https://www.linkedin.com/in/n-pizzetta)
   
-* 🧠  I'm currently learning in the Master Data Science for Social Sciences at Toulouse School of Economics (TSE)
+* 🧠  I'm currently studying in the Master Data Science for Social Sciences at Toulouse School of Economics (TSE)
 
 * 🤝  I'm looking for a 3-5 months internship as Datascientist (starting april 2024)
 
