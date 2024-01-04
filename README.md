@@ -20,7 +20,7 @@ Master degree student in Data Science
 
 * 🌍  I'm based in Toulouse
   
-* 🖥️  See one of my little [Project](http://nate-pizz.github.io/r-project/)
+* 🖥️  See one of my little [Project](http://n-pizzetta.github.io/r-project/)
 
 * ✉️  You can contact me at [nathan.pizzetta@gmail.com](mailto:nathan.pizzetta@gmail.com)
       and on my [LinkedIn](https://www.linkedin.com/in/n-pizzetta)
