@@ -18,18 +18,16 @@ Hola ! 👋 I am Nathan
 Master degree student in Data Science
 --------------  
 
-* 🌍  I'm based in Toulouse
+* 🌍  I'm based in **Toulouse**
+
+* 🧠  Studying the **Master Data Science for Social Sciences** at **Toulouse School of Economics** (TSE)
   
 * 🖥️  See one of my little [Project](http://n-pizzetta.github.io/r-project/)
 
 * ✉️  You can contact me at [nathan.pizzetta@gmail.com](mailto:nathan.pizzetta@gmail.com)
       and on my [LinkedIn](https://www.linkedin.com/in/n-pizzetta)
-  
-* 🧠  I'm currently studying in the Master Data Science for Social Sciences at Toulouse School of Economics (TSE)
 
-* 🤝  I'm looking for a 3-5 months internship as Datascientist (starting april 2024)
-
-* ⚡  I am very enthusiastic about starting a position as data scientist and meeting a new team to work with.
+* ⚡  I am a very easy to live person, I love to go trekking,  I really like to meet new people, I am very enthusiastic when discovering new cultures. I got a lot to tell about my experiences outside school if you feel interested about it.
 
 
 > [!NOTE]
