@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋 I am looking for an internship as Data Scientist (april 2024)
+Hola ! 👋 I am Nathan
 =====================
 Master degree student in Data Science
 --------------  
@@ -30,3 +30,7 @@ Master degree student in Data Science
 * 🤝  I'm looking for a 3-5 months internship as Datascientist (starting april 2024)
 
 * ⚡  I am very enthusiastic about starting a position as data scientist and meeting a new team to work with.
+
+
+> [!NOTE]
+> I am looking for a 3-5 months INTERNSHIP starting april 2024
