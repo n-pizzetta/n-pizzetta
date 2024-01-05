@@ -27,8 +27,6 @@ Master degree student in Data Science
 * ✉️  You can contact me at [nathan.pizzetta@gmail.com](mailto:nathan.pizzetta@gmail.com)
       and on my [LinkedIn](https://www.linkedin.com/in/n-pizzetta)
 
-* ⚡  I am a very easy to live person, I love to go trekking,  I really like to meet new people, I am very enthusiastic when discovering new cultures. I got a lot to tell about my experiences outside school if you feel interested about it.
-
 
 > [!NOTE]
 > I am looking for a 3-5 months INTERNSHIP starting april 2024
