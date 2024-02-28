@@ -28,5 +28,5 @@ Master degree student in Data Science
       and on my [LinkedIn](https://www.linkedin.com/in/n-pizzetta)
 
 
-> [!REMARK]
+> [!NOTE]
 > I am looking for a 3-5 months INTERNSHIP starting may 2024
