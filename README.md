@@ -29,4 +29,4 @@ Master degree student in Data Science
 
 
 > [!NOTE]
-> I am looking for a 3-5 months INTERNSHIP starting may 2024
+> I am looking for an alternate position starting september 2024
