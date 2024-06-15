@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hola ! 👋 I am Nathan
+Hi ! 👋 I am Nathan
 =====================
 Master degree student in Data Science
 --------------  
