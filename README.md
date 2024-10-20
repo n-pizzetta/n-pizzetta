@@ -18,4 +18,4 @@ Hi ! 👋 I am Nathan
 
 Check my projects :
 
-  * [App](http://n-pizzetta.github.io/csv-manager/) to convert Access databases (.accdb) to CSV files.
+  * [Let's check](https://github.com/n-pizzetta/csv-manager) my app to convert Access databases (.accdb) to CSV files.
