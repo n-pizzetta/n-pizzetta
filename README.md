@@ -15,18 +15,7 @@ Here are some ideas to get you started:
 
 Hi ! 👋 I am Nathan
 =====================
-Master degree student in Data Science
---------------  
 
-* 🌍  I'm based in **Toulouse**
+Check my projects :
 
-* 🧠  Studying the **Master Data Science for Social Sciences** at **Toulouse School of Economics** (TSE)
-  
-* 🖥️  See one of my little [Project](http://n-pizzetta.github.io/r-project/)
-
-* ✉️  You can contact me at [nathan.pizzetta@gmail.com](mailto:nathan.pizzetta@gmail.com)
-      and on my [LinkedIn](https://www.linkedin.com/in/n-pizzetta)
-
-
-> [!NOTE]
-> I am looking for an alternate position starting september 2024
+  * [App](http://n-pizzetta.github.io/csv-manager/) to convert Access databases (.accdb) to CSV files.
