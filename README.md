@@ -21,8 +21,8 @@ Hi ! 👋 I am Nathan
 ---
 
 <a href="https://github.com/n-pizzetta/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=n-pizzetta&show_icons=true&theme=chartreuse-dark&rank_icon=github" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=n-pizzetta&show_icons=true&theme=chartreuse-dark&rank_icon=github" />
 </a>
 <a href="https://github.com/n-pizzetta/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-pizzetta&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=chartreuse-dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-pizzetta&layout=compact&langs_count=8&card_width=200&hide_progress=true&theme=chartreuse-dark" />
 </a>
