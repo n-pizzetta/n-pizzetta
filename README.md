@@ -23,9 +23,7 @@ Hi ! 👋 I am Nathan
   <a>
     <img height=250  width=250 align="center" src="images/cyborg_nobg.gif" />
   </a>
-
-<br><br> <!-- Adds space between the GIF and the stats -->
-
+  <br>
   <a href="https://github.com/n-pizzetta/github-readme-stats">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=n-pizzetta&show_icons=true&theme=chartreuse-dark&rank_icon=github" />
   </a>
