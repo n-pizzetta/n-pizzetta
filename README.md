@@ -16,6 +16,6 @@
 ---
 
 
-![Visitor Count](https://nathan.directory/ghpvc/?username=n-pizzetta&color=blue&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=n-pizzetta&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
