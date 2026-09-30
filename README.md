@@ -4,10 +4,6 @@
 <div align="center">
 
 
-<!-- Activity Graph - More Reliable -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=n-pizzetta&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <!-- Streak Stats - Alternative Domain -->
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=n-pizzetta&theme=react&hide_border=true)](https://git.io/streak-stats)
 
@@ -16,6 +12,6 @@
 ---
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=n-pizzetta&color=blue&style=flat-square&label=Profile+Views)
+![Profile Views](https://hits.sh/github.com/n-pizzetta.svg?label=Profile%20Views&color=blue&style=flat-square)
 
 </div>
