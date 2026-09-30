@@ -31,6 +31,16 @@ THEMES = {
 FONT = "-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif"
 W, H = 840, 290
 
+# Plays once on load; skipped entirely for reduced-motion viewers.
+STYLE = """<style>
+@media (prefers-reduced-motion: no-preference) {
+  .fade { opacity: 0; animation: fade .5s ease-out forwards; }
+  .grow { transform-box: fill-box; transform-origin: bottom; transform: scaleY(0); animation: grow .7s cubic-bezier(.2,.8,.2,1) forwards; }
+}
+@keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+@keyframes grow { to { transform: scaleY(1); } }
+</style>"""
+
 
 def fetch_calendar():
     body = json.dumps({"query": QUERY, "variables": {"login": USER}}).encode()
@@ -77,14 +87,17 @@ def render(k, t):
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
         f'font-family="{FONT}" role="img" aria-label="GitHub activity: {fmt(k["total"])} contributions in the last 12 months">',
         f'<rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="6" fill="{t["bg"]}" stroke="{t["border"]}"/>',
+        STYLE,
     ]
 
     col = (W - 48) / len(stats)
     for i, (value, label, sub) in enumerate(stats):
         x = 24 + i * col
+        out.append(f'<g class="fade" style="animation-delay:{i * 0.12:.2f}s">')
         out.append(f'<text x="{x:.0f}" y="58" font-size="30" font-weight="600" fill="{t["ink"]}">{value}</text>')
         out.append(f'<text x="{x:.0f}" y="82" font-size="13" fill="{t["ink"]}">{label}</text>')
         out.append(f'<text x="{x:.0f}" y="100" font-size="12" fill="{t["muted"]}">{sub}</text>')
+        out.append("</g>")
 
     # Monthly contributions, one bar per month, baseline-anchored.
     top, base = 140, 250
@@ -103,12 +116,12 @@ def render(k, t):
             y = base - h
             out.append(
                 f'<path d="M{x:.1f},{base} V{y + r:.1f} Q{x:.1f},{y:.1f} {x + r:.1f},{y:.1f} '
-                f'H{x + bw - r:.1f} Q{x + bw:.1f},{y:.1f} {x + bw:.1f},{y + r:.1f} V{base} Z" fill="{t["bar"]}">'
+                f'H{x + bw - r:.1f} Q{x + bw:.1f},{y:.1f} {x + bw:.1f},{y + r:.1f} V{base} Z" fill="{t["bar"]}" class="grow" style="animation-delay:{0.4 + i * 0.06:.2f}s">'
                 f"<title>{m}: {fmt(v)}</title></path>"
             )
         if v == peak or i == len(months) - 1:
             out.append(
-                f'<text x="{x + bw / 2:.1f}" y="{base - h - 6:.1f}" font-size="12" text-anchor="middle" '
+                f'<text x="{x + bw / 2:.1f}" y="{base - h - 6:.1f}" font-size="12" text-anchor="middle" class="fade" style="animation-delay:1.3s" '
                 f'fill="{t["ink"]}">{fmt(v)}</text>'
             )
         label = date.fromisoformat(m + "-01").strftime("%b")
