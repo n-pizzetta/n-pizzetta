@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="290" viewBox="0 0 840 290" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" role="img" aria-label="GitHub activity: 1,752 contributions in the last 12 months">
+<rect x="0.5" y="0.5" width="839" height="289" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="24" y="58" font-size="30" font-weight="600" fill="#1f2328">1,752</text>
+<text x="24" y="82" font-size="13" fill="#1f2328">contributions</text>
+<text x="24" y="100" font-size="12" fill="#59636e">last 12 months</text>
+<text x="222" y="58" font-size="30" font-weight="600" fill="#1f2328">992</text>
+<text x="222" y="82" font-size="13" fill="#1f2328">contributions</text>
+<text x="222" y="100" font-size="12" fill="#59636e">last 90 days</text>
+<text x="420" y="58" font-size="30" font-weight="600" fill="#1f2328">39/52</text>
+<text x="420" y="82" font-size="13" fill="#1f2328">active weeks</text>
+<text x="420" y="100" font-size="12" fill="#59636e">last 12 months</text>
+<text x="618" y="58" font-size="30" font-weight="600" fill="#1f2328">198</text>
+<text x="618" y="82" font-size="13" fill="#1f2328">best day</text>
+<text x="618" y="100" font-size="12" fill="#59636e">contributions</text>
+<text x="24" y="128" font-size="12" fill="#59636e">Contributions per month</text>
+<line x1="24" y1="250.5" x2="816" y2="250.5" stroke="#d0d7de"/>
+<text x="57.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Oct</text>
+<path d="M96.0,250 V250.0 Q96.0,248.0 98.0,248.0 H148.0 Q150.0,248.0 150.0,250.0 V250 Z" fill="#1a7f37"><title>2025-11: 15</title></path>
+<text x="123.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Nov</text>
+<path d="M162.0,250 V250.0 Q162.0,248.0 164.0,248.0 H214.0 Q216.0,248.0 216.0,250.0 V250 Z" fill="#1a7f37"><title>2025-12: 6</title></path>
+<text x="189.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Dec</text>
+<path d="M228.0,250 V244.4 Q228.0,240.4 232.0,240.4 H278.0 Q282.0,240.4 282.0,244.4 V250 Z" fill="#1a7f37"><title>2026-01: 73</title></path>
+<text x="255.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Jan</text>
+<path d="M294.0,250 V218.4 Q294.0,214.4 298.0,214.4 H344.0 Q348.0,214.4 348.0,218.4 V250 Z" fill="#1a7f37"><title>2026-02: 272</title></path>
+<text x="321.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Feb</text>
+<path d="M360.0,250 V235.5 Q360.0,231.5 364.0,231.5 H410.0 Q414.0,231.5 414.0,235.5 V250 Z" fill="#1a7f37"><title>2026-03: 141</title></path>
+<text x="387.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Mar</text>
+<path d="M426.0,250 V245.8 Q426.0,241.8 430.0,241.8 H476.0 Q480.0,241.8 480.0,245.8 V250 Z" fill="#1a7f37"><title>2026-04: 63</title></path>
+<text x="453.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Apr</text>
+<path d="M492.0,250 V250.0 Q492.0,246.2 495.8,246.2 H542.2 Q546.0,246.2 546.0,250.0 V250 Z" fill="#1a7f37"><title>2026-05: 29</title></path>
+<text x="519.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">May</text>
+<path d="M558.0,250 V233.1 Q558.0,229.1 562.0,229.1 H608.0 Q612.0,229.1 612.0,233.1 V250 Z" fill="#1a7f37"><title>2026-06: 160</title></path>
+<text x="585.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Jun</text>
+<path d="M624.0,250 V243.5 Q624.0,239.5 628.0,239.5 H674.0 Q678.0,239.5 678.0,243.5 V250 Z" fill="#1a7f37"><title>2026-07: 80</title></path>
+<text x="651.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Jul</text>
+<path d="M690.0,250 V228.5 Q690.0,224.5 694.0,224.5 H740.0 Q744.0,224.5 744.0,228.5 V250 Z" fill="#1a7f37"><title>2026-08: 195</title></path>
+<text x="717.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Aug</text>
+<path d="M756.0,250 V160.0 Q756.0,156.0 760.0,156.0 H806.0 Q810.0,156.0 810.0,160.0 V250 Z" fill="#1a7f37"><title>2026-09: 718</title></path>
+<text x="783.0" y="150.0" font-size="12" text-anchor="middle" fill="#1f2328">718</text>
+<text x="783.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Sep</text>
+</svg>
