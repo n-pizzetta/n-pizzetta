@@ -14,7 +14,7 @@
 <text x="24" y="100" font-size="12" fill="#59636e">last 12 months</text>
 </g>
 <g class="fade" style="animation-delay:0.12s">
-<text x="222" y="58" font-size="30" font-weight="600" fill="#1f2328">1,274</text>
+<text x="222" y="58" font-size="30" font-weight="600" fill="#1f2328">1,273</text>
 <text x="222" y="82" font-size="13" fill="#1f2328">contributions</text>
 <text x="222" y="100" font-size="12" fill="#59636e">last 90 days</text>
 </g>
