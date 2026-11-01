@@ -30,30 +30,29 @@
 </g>
 <text x="24" y="128" font-size="12" fill="#59636e">Contributions per month</text>
 <line x1="24" y1="250.5" x2="816" y2="250.5" stroke="#d0d7de"/>
-<path d="M30.0,250 V250.0 Q30.0,248.0 32.0,248.0 H82.0 Q84.0,248.0 84.0,250.0 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.40s"><title>2025-11: 15</title></path>
-<text x="57.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Nov</text>
-<path d="M96.0,250 V250.0 Q96.0,248.0 98.0,248.0 H148.0 Q150.0,248.0 150.0,250.0 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.46s"><title>2025-12: 6</title></path>
-<text x="123.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Dec</text>
-<path d="M162.0,250 V244.8 Q162.0,240.8 166.0,240.8 H212.0 Q216.0,240.8 216.0,244.8 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.52s"><title>2026-01: 73</title></path>
-<text x="189.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Jan</text>
-<path d="M228.0,250 V219.8 Q228.0,215.8 232.0,215.8 H278.0 Q282.0,215.8 282.0,219.8 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.58s"><title>2026-02: 272</title></path>
-<text x="255.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Feb</text>
-<path d="M294.0,250 V236.3 Q294.0,232.3 298.0,232.3 H344.0 Q348.0,232.3 348.0,236.3 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.64s"><title>2026-03: 141</title></path>
-<text x="321.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Mar</text>
-<path d="M360.0,250 V243.4 Q360.0,239.4 364.0,239.4 H410.0 Q414.0,239.4 414.0,243.4 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.70s"><title>2026-04: 84</title></path>
-<text x="387.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Apr</text>
-<path d="M426.0,250 V250.0 Q426.0,246.4 429.6,246.4 H476.4 Q480.0,246.4 480.0,250.0 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.76s"><title>2026-05: 29</title></path>
-<text x="453.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">May</text>
-<path d="M492.0,250 V233.9 Q492.0,229.9 496.0,229.9 H542.0 Q546.0,229.9 546.0,233.9 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.82s"><title>2026-06: 160</title></path>
-<text x="519.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Jun</text>
-<path d="M558.0,250 V243.9 Q558.0,239.9 562.0,239.9 H608.0 Q612.0,239.9 612.0,243.9 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.88s"><title>2026-07: 80</title></path>
-<text x="585.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Jul</text>
-<path d="M624.0,250 V229.5 Q624.0,225.5 628.0,225.5 H674.0 Q678.0,225.5 678.0,229.5 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.94s"><title>2026-08: 195</title></path>
-<text x="651.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Aug</text>
-<path d="M690.0,250 V160.0 Q690.0,156.0 694.0,156.0 H740.0 Q744.0,156.0 744.0,160.0 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:1.00s"><title>2026-09: 748</title></path>
-<text x="717.0" y="150.0" font-size="12" text-anchor="middle" class="fade" style="animation-delay:1.3s" fill="#1f2328">748</text>
-<text x="717.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Sep</text>
-<path d="M756.0,250 V198.3 Q756.0,194.3 760.0,194.3 H806.0 Q810.0,194.3 810.0,198.3 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:1.06s"><title>2026-10: 443</title></path>
-<text x="783.0" y="188.3" font-size="12" text-anchor="middle" class="fade" style="animation-delay:1.3s" fill="#1f2328">443</text>
-<text x="783.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Oct</text>
+<path d="M30.0,250 V250.0 Q30.0,248.0 32.0,248.0 H82.0 Q84.0,248.0 84.0,250.0 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.40s"><title>2025-12: 6</title></path>
+<text x="57.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Dec</text>
+<path d="M96.0,250 V244.8 Q96.0,240.8 100.0,240.8 H146.0 Q150.0,240.8 150.0,244.8 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.46s"><title>2026-01: 73</title></path>
+<text x="123.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Jan</text>
+<path d="M162.0,250 V219.8 Q162.0,215.8 166.0,215.8 H212.0 Q216.0,215.8 216.0,219.8 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.52s"><title>2026-02: 272</title></path>
+<text x="189.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Feb</text>
+<path d="M228.0,250 V236.3 Q228.0,232.3 232.0,232.3 H278.0 Q282.0,232.3 282.0,236.3 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.58s"><title>2026-03: 141</title></path>
+<text x="255.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Mar</text>
+<path d="M294.0,250 V243.4 Q294.0,239.4 298.0,239.4 H344.0 Q348.0,239.4 348.0,243.4 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.64s"><title>2026-04: 84</title></path>
+<text x="321.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Apr</text>
+<path d="M360.0,250 V250.0 Q360.0,246.4 363.6,246.4 H410.4 Q414.0,246.4 414.0,250.0 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.70s"><title>2026-05: 29</title></path>
+<text x="387.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">May</text>
+<path d="M426.0,250 V233.9 Q426.0,229.9 430.0,229.9 H476.0 Q480.0,229.9 480.0,233.9 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.76s"><title>2026-06: 160</title></path>
+<text x="453.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Jun</text>
+<path d="M492.0,250 V243.9 Q492.0,239.9 496.0,239.9 H542.0 Q546.0,239.9 546.0,243.9 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.82s"><title>2026-07: 80</title></path>
+<text x="519.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Jul</text>
+<path d="M558.0,250 V229.5 Q558.0,225.5 562.0,225.5 H608.0 Q612.0,225.5 612.0,229.5 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.88s"><title>2026-08: 195</title></path>
+<text x="585.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Aug</text>
+<path d="M624.0,250 V160.0 Q624.0,156.0 628.0,156.0 H674.0 Q678.0,156.0 678.0,160.0 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:0.94s"><title>2026-09: 748</title></path>
+<text x="651.0" y="150.0" font-size="12" text-anchor="middle" class="fade" style="animation-delay:1.3s" fill="#1f2328">748</text>
+<text x="651.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Sep</text>
+<path d="M690.0,250 V198.3 Q690.0,194.3 694.0,194.3 H740.0 Q744.0,194.3 744.0,198.3 V250 Z" fill="#1a7f37" class="grow" style="animation-delay:1.00s"><title>2026-10: 443</title></path>
+<text x="717.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Oct</text>
+<text x="783.0" y="244.0" font-size="12" text-anchor="middle" class="fade" style="animation-delay:1.3s" fill="#1f2328">0</text>
+<text x="783.0" y="268" font-size="11" text-anchor="middle" fill="#59636e">Nov</text>
 </svg>
