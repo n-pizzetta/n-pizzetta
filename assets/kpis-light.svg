@@ -19,7 +19,7 @@
 <text x="222" y="100" font-size="12" fill="#59636e">last 90 days</text>
 </g>
 <g class="fade" style="animation-delay:0.24s">
-<text x="420" y="58" font-size="30" font-weight="600" fill="#1f2328">44/52</text>
+<text x="420" y="58" font-size="30" font-weight="600" fill="#1f2328">43/52</text>
 <text x="420" y="82" font-size="13" fill="#1f2328">active weeks</text>
 <text x="420" y="100" font-size="12" fill="#59636e">last 12 months</text>
 </g>
